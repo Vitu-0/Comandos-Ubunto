@@ -2,9 +2,11 @@
 **Sudo:** comando que concede privilégio de administrador
  
 **Apt:** gerenciador de pacotes 
+
 **Sudo apt update:** atualiza a lista de pacotes disponíveis (só consulta, não instala nada)
  
 **Sudo apt upgrade:** instala as atualizações disponíveis para os pacotes que você já tem
+
 **Sudo reboot:** reinicia a maquina
  
 **Sudo apt install build-essential dkms linux-headers-$(uname -r)** 
