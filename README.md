@@ -1,4 +1,4 @@
-# Comandos-Ubunto
+# Comandos-Ubuntu
 **Sudo:** comando que concede privilégio de administrador
  
 **Apt:** gerenciador de pacotes 
